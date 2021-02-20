@@ -1,3 +1,12 @@
 body {
-  background: white url(img/tree.png) no-repeat top right;
+  background: white;
+  background-image: url(img/bg1.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+
+h1 {
+  color: black;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
 }
