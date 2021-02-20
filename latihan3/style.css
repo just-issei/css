@@ -1,0 +1,13 @@
+/*belajar mengenai text styling*/
+
+h1 {
+  font-size: 50px;
+  color: rgb(11,225,110)
+}
+
+p {
+  color: green;
+  text-indent: 100px;
+  text-transform: capitalize;
+  word-spacing: 10px;
+}
